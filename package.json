@@ -1,0 +1,26 @@
+{
+  "name": "react-native-meteor-collection2",
+  "version": "2.0.0",
+  "description": "Meteor's Collection2 ported for React Native",
+  "main": "src/collection2.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copleykj/react-native-meteor-collection2.git"
+  },
+  "keywords": [
+    "meteor",
+    "collection2",
+    "react-native"
+  ],
+  "author": "Kelly Copley <copleykj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/copleykj/react-native-meteor-collection2/issues"
+  },
+  "homepage": "https://github.com/copleykj/react-native-meteor-collection2#readme",
+  "peerDependencies": {
+    "react-native-meteor": "~1.2.0",
+    "simpl-schema": "^0.3.2",
+    "lodash": "^4.17.4"
+  }
+}
