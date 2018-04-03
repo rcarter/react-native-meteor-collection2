@@ -1,6 +1,6 @@
 {
   "name": "@socialize/react-native-meteor-collection2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Meteor's Collection2 ported for React Native",
   "main": "src/collection2.js",
   "repository": {
@@ -22,7 +22,7 @@
     "simpl-schema": "^1.4.2"
   },
   "dependencies": {
-    "@socialize/react-native-meteor": "^1.1.0",
+    "@socialize/react-native-meteor": "^1.1.2",
     "clone": "^1.0.4",
     "ejson": "^2.1.2",
     "lodash.isempty": "^4.4.0",
