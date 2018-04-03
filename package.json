@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/copleykj/react-native-meteor-collection2#readme",
   "peerDependencies": {
-    "simpl-schema": "^1.4.2",
+    "simpl-schema": "^1.4.2"
   },
   "dependencies": {
     "@socialize/react-native-meteor": "^1.1.0",
