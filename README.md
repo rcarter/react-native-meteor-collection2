@@ -4,17 +4,9 @@ This project is a port of the Meteor package `aldeed:collection2-core` to make i
 ## Supporting the Project ##
 If you appreciate the open source work I do, you can help keep me going with a small donation for my time and effort.
 
-[Bitcoin](https://www.coinbase.com/checkouts/4a52f56a76e565c552b6ecf118461287) / [Patreon](https://www.patreon.com/user?u=4866588) / [Paypal](https://www.paypal.me/copleykj)
+Litecoin: LXLBD9sC5dV79eQkwj7tFusUHvJA5nhuD3 / [Patreon](https://www.patreon.com/user?u=4866588) / [Paypal](https://www.paypal.me/copleykj)
 
 ## Installation ##
-
-Make sure you have the following packages installed from `npm`.
-
-1. react-native-meteor
-2. simpl-schema
-3. lodash
-
-Then install this package.
 
 ```sh
 $ npm install --save react-native-meteor-collection2
